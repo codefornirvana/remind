@@ -29,7 +29,7 @@ Running Remind
 ```
 Usage : ./remind <time when you want the notification in form of hh:mm:ss> &
 Please it is advisable to run remind in the background mode so that you can easily carry on with your work
-and let remind keep the track of time the for you
+and let remind keep the track of the time for you
 ```
 
 ## Built With
