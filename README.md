@@ -10,7 +10,7 @@ The  binary executable can be fetched by cloning or downloading this repository.
 
 ### Prerequisites
 
-Presently Remind works only on Linux based platform. So you got to get a copy of any linux distro for running this utility.
+Presently Remind works only on Linux based platforms. So you got to get a copy of any linux distro for running this utility.
 
 ### Installing
 
@@ -28,8 +28,8 @@ Move to the directory where the executable is located and issue the following co
 Running Remind
 ```
 Usage : ./remind <time when you want the notification in form of hh:mm:ss> &
-Please it is advisable to run remind in the background mode so that you can easily carry on with your work and let remind keep the track of time for
-you
+Please it is advisable to run remind in the background mode so that you can easily carry on with your work
+and let remind keep the track of time the for you
 ```
 
 ## Built With
@@ -39,5 +39,5 @@ Remind is fully coded in C.
 
 ## Authors
 
-* **Ratul Bhattacharjee** - *Initial work* - [Ratul-nirvana](https://github.com/Ratul-nirvana)
+* **Ratul Bhattacharjee** - *Conceptualized and coded* - [Ratul-nirvana](https://github.com/Ratul-nirvana)
 
